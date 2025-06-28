@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    width: 1050px;
+    height: 1090px;
+    background-color: black;
+    margin-left: 240px;
+    margin-top: 130px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
